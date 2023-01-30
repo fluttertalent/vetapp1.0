@@ -1,0 +1,33 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\flutter\.pub-cache\hosted\pub.dartlang.org\hyperpay-1.0.0-dev.7\android\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from D:\flutter\.pub-cache\hosted\pub.dartlang.org\hyperpay-1.0.0-dev.7\android\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from D:\flutter\.pub-cache\hosted\pub.dartlang.org\hyperpay-1.0.0-dev.7\android\src\main\AndroidManifest.xml:1:1-9:12
+	package
+		ADDED from D:\flutter\.pub-cache\hosted\pub.dartlang.org\hyperpay-1.0.0-dev.7\android\src\main\AndroidManifest.xml:2:5-36
+		INJECTED from D:\flutter\.pub-cache\hosted\pub.dartlang.org\hyperpay-1.0.0-dev.7\android\src\main\AndroidManifest.xml
+		INJECTED from D:\flutter\.pub-cache\hosted\pub.dartlang.org\hyperpay-1.0.0-dev.7\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\flutter\.pub-cache\hosted\pub.dartlang.org\hyperpay-1.0.0-dev.7\android\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from D:\flutter\.pub-cache\hosted\pub.dartlang.org\hyperpay-1.0.0-dev.7\android\src\main\AndroidManifest.xml:4:5-8:19
+service#com.oppwa.mobile.connect.service.ConnectService
+ADDED from D:\flutter\.pub-cache\hosted\pub.dartlang.org\hyperpay-1.0.0-dev.7\android\src\main\AndroidManifest.xml:5:9-7:40
+	android:exported
+		ADDED from D:\flutter\.pub-cache\hosted\pub.dartlang.org\hyperpay-1.0.0-dev.7\android\src\main\AndroidManifest.xml:7:13-37
+	android:name
+		ADDED from D:\flutter\.pub-cache\hosted\pub.dartlang.org\hyperpay-1.0.0-dev.7\android\src\main\AndroidManifest.xml:6:13-75
+uses-sdk
+INJECTED from D:\flutter\.pub-cache\hosted\pub.dartlang.org\hyperpay-1.0.0-dev.7\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\flutter\.pub-cache\hosted\pub.dartlang.org\hyperpay-1.0.0-dev.7\android\src\main\AndroidManifest.xml
+INJECTED from D:\flutter\.pub-cache\hosted\pub.dartlang.org\hyperpay-1.0.0-dev.7\android\src\main\AndroidManifest.xml
+INJECTED from D:\flutter\.pub-cache\hosted\pub.dartlang.org\hyperpay-1.0.0-dev.7\android\src\main\AndroidManifest.xml
+INJECTED from D:\flutter\.pub-cache\hosted\pub.dartlang.org\hyperpay-1.0.0-dev.7\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\flutter\.pub-cache\hosted\pub.dartlang.org\hyperpay-1.0.0-dev.7\android\src\main\AndroidManifest.xml
+		ADDED from D:\flutter\.pub-cache\hosted\pub.dartlang.org\hyperpay-1.0.0-dev.7\android\src\main\AndroidManifest.xml
+		INJECTED from D:\flutter\.pub-cache\hosted\pub.dartlang.org\hyperpay-1.0.0-dev.7\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\flutter\.pub-cache\hosted\pub.dartlang.org\hyperpay-1.0.0-dev.7\android\src\main\AndroidManifest.xml
+		ADDED from D:\flutter\.pub-cache\hosted\pub.dartlang.org\hyperpay-1.0.0-dev.7\android\src\main\AndroidManifest.xml
+		INJECTED from D:\flutter\.pub-cache\hosted\pub.dartlang.org\hyperpay-1.0.0-dev.7\android\src\main\AndroidManifest.xml

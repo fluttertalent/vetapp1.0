@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">168031011329-ah5qk1d0sbujkllp4erodvv3jaitplro.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">168031011329</string>
+    <string name="google_api_key" translatable="false">AIzaSyCWil0p-O59ouKsot4g0iGroRZ9SzPdpFg</string>
+    <string name="google_app_id" translatable="false">1:168031011329:android:c2552cb72a726029217600</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCWil0p-O59ouKsot4g0iGroRZ9SzPdpFg</string>
+    <string name="google_storage_bucket" translatable="false">vetapp-9c64c.appspot.com</string>
+    <string name="project_id" translatable="false">vetapp-9c64c</string>
+</resources>

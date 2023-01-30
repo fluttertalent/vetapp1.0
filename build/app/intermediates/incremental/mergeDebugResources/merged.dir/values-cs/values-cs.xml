@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nové oznámení</item>
+    <item quantity="few">%d nová oznámení</item>
+    <item quantity="many">%d nového oznámení</item>
+    <item quantity="other">%d nových oznámení</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Přejít na plochu"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Přejít nahoru"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Další možnosti"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Hotovo"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Zobrazit vše"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Vybrat aplikaci"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"VYP"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ZAP"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"mezerník"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Vyhledat…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Smazat dotaz"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Dotaz pro vyhledávání"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Hledat"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Odeslat dotaz"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Hlasové vyhledávání"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Sdílet s"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Sdílet s aplikací <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Sbalit"</string>
+    <string name="bottomsheet_action_expand_halfway">Rozbalit napůl</string>
+    <string name="character_counter_content_description">Zadané znaky: %1$d z %2$d</string>
+    <string name="character_counter_overflowed_content_description">Byl překročen povolený počet znaků (%1$d z %2$d)</string>
+    <string name="checkout_auth_confirm_payment">Pro potvrzení platby</string>
+    <string name="checkout_choose_card_type">Vyberte typ karty</string>
+    <string name="checkout_error_account_expiration_date_invalid">Datum vypršení platnosti není platné, použijte formát MM/RR nebo MM/RRRR</string>
+    <string name="checkout_error_account_expired">Platnost účtu vypršela</string>
+    <string name="checkout_error_account_holder_invalid">Neplatné jméno majitele účtu</string>
+    <string name="checkout_error_account_number_invalid">Neplatné číslo účtu</string>
+    <string name="checkout_error_bic_bank_code_invalid">Neplatné číslo BIC nebo kód banky</string>
+    <string name="checkout_error_card_holder_invalid">Neplatné jméno majitele karty</string>
+    <string name="checkout_error_card_number_invalid">Neplatné číslo karty</string>
+    <string name="checkout_error_email_invalid">Neplatný e-mail</string>
+    <string name="checkout_error_expiration_date">Platnost karty vypršela</string>
+    <string name="checkout_error_expiration_date_invalid">Datum vypršení platnosti není platné, použijte formát MM/RR nebo MM/RRRR</string>
+    <string name="checkout_error_iban_account_number_invalid">Neplatné číslo IBAN nebo číslo účtu</string>
+    <string name="checkout_error_iban_invalid">Neplatné číslo IBAN</string>
+    <string name="checkout_error_mobile_phone_number_invalid">Neplatné číslo mobilního telefonu</string>
+    <string name="checkout_error_national_identifier_invalid">Neplatné osobní identifikační číslo</string>
+    <string name="checkout_error_security_code_invalid">Bezpečnostní kód musí obsahovat poslední 3 číslice uvedené na zadní straně vaší karty</string>
+    <string name="checkout_error_security_code_invalid_amex">Bezpečnostní kód musí obsahovat poslední 4 číslice uvedené na přední straně vaší karty</string>
+    <string name="checkout_fingerprint_cancel">Zrušit</string>
+    <string name="checkout_fingerprint_enter_pin">Zadat/Zadejte PIN</string>
+    <string name="checkout_fingerprint_not_recognized">Otisk prstu nebyl rozeznán, zkuste to znovu</string>
+    <string name="checkout_fingerprint_success">Otisk prstu byl rozeznán</string>
+    <string name="checkout_fingerprint_touch_sensor">Dotykové čidlo</string>
+    <string name="checkout_helper_account_number">Číslo účtu</string>
+    <string name="checkout_helper_account_verification">Ověření účtu</string>
+    <string name="checkout_helper_bic_bank_code">BIC nebo kód banky</string>
+    <string name="checkout_helper_card_holder">Jméno, jak je uvedeno na kartě</string>
+    <string name="checkout_helper_card_number">Dlouhé číslo na přední straně karty</string>
+    <string name="checkout_helper_expiration_date">Použijte formát MM/RR nebo MM/RRRR</string>
+    <string name="checkout_helper_iban">IBAN (International Bank Account Number) spojený s účtem</string>
+    <string name="checkout_helper_iban_account_number">IBAN nebo číslo účtu</string>
+    <string name="checkout_helper_national_identifier">Osobní identifikační číslo</string>
+    <string name="checkout_helper_security_code">Poslední tři čísla na zadní straně karty</string>
+    <string name="checkout_helper_security_code_amex">4 ciferný kód na přední straně karty</string>
+    <string name="checkout_layout_hint_account_number">Číslo účtu</string>
+    <string name="checkout_layout_hint_account_verification">Ověření účtu</string>
+    <string name="checkout_layout_hint_card_cvv">Bezpečnostní kód nebo CCV</string>
+    <string name="checkout_layout_hint_card_expiration_date">Platí do: </string>
+    <string name="checkout_layout_hint_card_holder">Jméno držitele karty</string>
+    <string name="checkout_layout_hint_card_number">Číslo kreditní karty</string>
+    <string name="checkout_layout_hint_country_code">Kód země</string>
+    <string name="checkout_layout_hint_direct_debit_sepa_account_holder">Majitel účtu</string>
+    <string name="checkout_layout_hint_direct_debit_sepa_iban">IBAN</string>
+    <string name="checkout_layout_hint_email">E-mail</string>
+    <string name="checkout_layout_hint_national_identifier">Osobní identifikační číslo</string>
+    <string name="checkout_layout_hint_phone_number">Číslo mobilního telefonu</string>
+    <string name="checkout_layout_text_accept_mbway_pin">Potvrďte, prosím, transakci vaším identifikačním číslem MB WAY PIN.</string>
+    <string name="checkout_layout_text_cards_payment_methods">Kreditní/debetní karty</string>
+    <string name="checkout_layout_text_finnish">Finština</string>
+    <string name="checkout_layout_text_order_summary">Souhrn objednávky</string>
+    <string name="checkout_layout_text_order_total">CELKEM</string>
+    <string name="checkout_layout_text_other_payment_methods">Další platební metody</string>
+    <string name="checkout_layout_text_pay">ZAPLATIT NYNÍ</string>
+    <string name="checkout_layout_text_pay_amount">Zaplatit %s</string>
+    <string name="checkout_layout_text_pay_with">Zaplatit</string>
+    <string name="checkout_layout_text_payment_info">Informace o platbě</string>
+    <string name="checkout_layout_text_push_notification_sent">Na vaše zařízení bude odeslána push notifikace.</string>
+    <string name="checkout_layout_text_qr_code">QR kód</string>
+    <string name="checkout_layout_text_register">Registrovat</string>
+    <string name="checkout_layout_text_select_bank">Vyberte banku</string>
+    <string name="checkout_layout_text_select_country">Vyberte stát</string>
+    <string name="checkout_layout_text_select_payment_method">Platební metody</string>
+    <string name="checkout_layout_text_ship_to">Odeslat do </string>
+    <string name="checkout_layout_text_stcpay_method_select">Prosím, vyberte si preferovaný způsob placení:</string>
+    <string name="checkout_layout_text_stored_payment_methods">Uložené platební metody</string>
+    <string name="checkout_layout_text_swedish">Švédština</string>
+    <string name="checkout_layout_text_terms_and_conditions">Všeobecné obchodní podmínky</string>
+    <string name="checkout_layout_text_terms_and_conditions_agreement">Četl/a jsem Všeobecné obchodní podmínky a souhlasím s nimi. </string>
+    <string name="checkout_layout_text_total_amount">Celková částka</string>
+    <string name="checkout_number_of_installments">Počet splátek</string>
+    <string name="checkout_order_review">Přehled objednávky</string>
+    <string name="checkout_payment_details">Údaje o platbě</string>
+    <string name="checkout_processing">Zpracovávám</string>
+    <string name="checkout_tokenization_checkbox">Uložit informace o platbě pro budoucí použití</string>
+    <string name="checkout_transaction_run">Čekejte, prosím</string>
+    <string name="clear_text_end_icon_content_description">Vymazat text</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Povolit</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Ke spuštění aplikace %1$s je třeba aktivovat služby Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Aktivace služeb Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Instalovat</string>
+    <string name="common_google_play_services_install_text">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které v zařízení nemáte.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Instalace služeb Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Dostupnost služeb Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Chyba služeb Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Aplikace %1$s má potíže se službami Google Play. Zkuste to prosím znovu.</string>
+    <string name="common_google_play_services_unsupported_text">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které v tomto zařízení nejsou podporovány.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Aktualizovat</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">Ke spuštění aplikace %1$s je třeba aktualizovat služby Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Aktualizace služeb Google Play</string>
+    <string name="common_google_play_services_updating_text">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které jsou právě aktualizovány.</string>
+    <string name="common_google_play_services_wear_update_text">Je vyžadována nová verze služeb Google Play. Nová verze se brzy sama nainstaluje.</string>
+    <string name="common_open_on_phone">Otevřít v telefonu</string>
+    <string name="common_signin_button_text">Přihlásit se</string>
+    <string name="common_signin_button_text_long">Přihlásit se k účtu Google</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Odkaz zkopírován do schránky"</string>
+    <string name="directdebit_sepa">SEPA Direct Debit</string>
+    <string name="error_icon_content_description">Chyba</string>
+    <string name="exposed_dropdown_menu_content_description">Zobrazit rozbalovací nabídku</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Kopírovat odkaz"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Otevřít v prohlížeči"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Sdílet odkaz"</string>
+    <string name="icon_content_description">Ikona dialogového okna</string>
+    <string name="item_view_role_description">Karta</string>
+    <string name="material_clock_toggle_content_description">Vyberte AM nebo PM</string>
+    <string name="material_hour_selection">Vyberte hodinu</string>
+    <string name="material_hour_suffix">%1$s</string>
+    <string name="material_minute_selection">Zvolte minuty</string>
+    <string name="material_minute_suffix">%1$s min</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Chcete-li zadat čas, přepněte na režim hodin.</string>
+    <string name="material_timepicker_hour">Hodina</string>
+    <string name="material_timepicker_minute">Minuta</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Vyberte čas</string>
+    <string name="material_timepicker_text_input_mode_description">Chcete-li zadat čas, přepněte na režim textu.</string>
+    <string name="mtrl_badge_numberless_content_description">Nové oznámení</string>
+    <string name="mtrl_chip_close_icon_content_description">Odstranit položku %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Více než %1$d nových oznámení</string>
+    <string name="mtrl_picker_a11y_next_month">Přejít na další měsíc</string>
+    <string name="mtrl_picker_a11y_prev_month">Přejít na předchozí měsíc</string>
+    <string name="mtrl_picker_announce_current_selection">Aktuální výběr: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Vyberte datum</string>
+    <string name="mtrl_picker_date_header_unselected">Vybrané datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Sloupec dnů: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Neplatný formát.</string>
+    <string name="mtrl_picker_invalid_format_example">Příklad: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Použijte: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Neplatný rozsah.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Přejít na rok %1$s</string>
+    <string name="mtrl_picker_out_of_range">Mimo rozsah: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Datum zahájení – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – datum ukončení</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Vyberte rozsah</string>
+    <string name="mtrl_picker_range_header_unselected">Datum zahájení – datum ukončení</string>
+    <string name="mtrl_picker_save">Uložit</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Datum ukončení</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Datum zahájení</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">r</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Přepnout na režim zadávání do kalendáře</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Klepnutím přepnete na výběr dne</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Přepnout na režim zadávání textu</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Klepnutím přepnete na výběr roku</string>
+    <string name="password_toggle_content_description">Zobrazit heslo</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Hledat"</string>
+    <string name="sofortueberweisung">SOFORT banking</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

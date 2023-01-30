@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d ny notifikation</item>
+    <item quantity="other">%d nye notifikationer</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Find hjem"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Gå op"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Flere valgmuligheder"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Udfør"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Vælg en app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"FRA"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"TIL"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"slet"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"mellemrum"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Søg…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Ryd forespørgsel"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Søgeforespørgsel"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Søg"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Indsend forespørgsel"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Talesøgning"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Del med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Skjul"</string>
+    <string name="bottomsheet_action_expand_halfway">Udvid halvdelen</string>
+    <string name="character_counter_content_description">Du har brugt %1$d ud af %2$d tegn</string>
+    <string name="character_counter_overflowed_content_description">Du har brugt %1$d tegn og dermed overskredet tegnbegrænsningen på %2$d.</string>
+    <string name="checkout_auth_confirm_payment">Bekræfter betaling</string>
+    <string name="checkout_choose_card_type">Vælg korttype</string>
+    <string name="checkout_error_account_expiration_date_invalid">Udløbsdatoen er ikke korrekt. Brug formatet MM/ÅÅ eller MM/ÅÅÅÅ</string>
+    <string name="checkout_error_account_expired">Kontoen er udløbet</string>
+    <string name="checkout_error_account_holder_invalid">Kontoindehavers navn er ikke korrekt</string>
+    <string name="checkout_error_account_number_invalid">Ugyldigt kontonummer</string>
+    <string name="checkout_error_bic_bank_code_invalid">BIC eller bankkode er ikke gyldigt</string>
+    <string name="checkout_error_card_holder_invalid">Kortindehavers navn er ikke korrekt</string>
+    <string name="checkout_error_card_number_invalid">Kortnummeret er ikke korrekt</string>
+    <string name="checkout_error_email_invalid">Ugyldig e-mail</string>
+    <string name="checkout_error_expiration_date">Kortet er udløbet</string>
+    <string name="checkout_error_expiration_date_invalid">Udløbsdaten på kortet er ikke korrekt. Brug formatet MM/ÅÅ eller MM/ÅÅÅÅ</string>
+    <string name="checkout_error_iban_account_number_invalid">IBAN eller kontonummer er ikke gyldigt</string>
+    <string name="checkout_error_iban_invalid">IBAN er ikke gyldigt</string>
+    <string name="checkout_error_mobile_phone_number_invalid">Ugyldigt telefonnummer</string>
+    <string name="checkout_error_national_identifier_invalid">Ugyldigt CPR</string>
+    <string name="checkout_error_security_code_invalid">Sikkerhedskoden er de 3 tal på bagsiden af kortet</string>
+    <string name="checkout_error_security_code_invalid_amex">Sikkerhedskoden er de 4 tal på forsiden af kortet</string>
+    <string name="checkout_fingerprint_cancel">Afbryd</string>
+    <string name="checkout_fingerprint_enter_pin">Indtast PIN</string>
+    <string name="checkout_fingerprint_not_recognized">Fingeraftryk ikke godkendt, prøv igen.</string>
+    <string name="checkout_fingerprint_success">Fingeraftryk godkendt</string>
+    <string name="checkout_fingerprint_touch_sensor">Godkend med touch</string>
+    <string name="checkout_helper_account_number">Kontonummer</string>
+    <string name="checkout_helper_account_verification">Kontoverificering</string>
+    <string name="checkout_helper_bic_bank_code">BIC eller Bankkode</string>
+    <string name="checkout_helper_card_holder">Navn som det fremgår på dit kort</string>
+    <string name="checkout_helper_card_number">Det lange nummer på kortets forside</string>
+    <string name="checkout_helper_country_code" translatable="false">+xxx</string>
+    <string name="checkout_helper_expiration_date">Brug formatet MM/ÅÅ eller MM/ÅÅÅÅ</string>
+    <string name="checkout_helper_iban">IBAN (International Bank Account Number)</string>
+    <string name="checkout_helper_iban_account_number">IBAN eller kontonummer</string>
+    <string name="checkout_helper_national_identifier">CPR-nummer</string>
+    <string name="checkout_helper_phone_number" translatable="false">xxxxxxxxx</string>
+    <string name="checkout_helper_security_code">De sidste 3 tal på bagsiden af kortet</string>
+    <string name="checkout_helper_security_code_amex">4-cifret kode på forsiden af kortet</string>
+    <string name="checkout_layout_hint_account_number">Kontonummer</string>
+    <string name="checkout_layout_hint_account_verification">Kontoverificering</string>
+    <string name="checkout_layout_hint_card_cvv">CVV nummer</string>
+    <string name="checkout_layout_hint_card_expiration_date">Udløbsdato</string>
+    <string name="checkout_layout_hint_card_holder">Navn på kortholder</string>
+    <string name="checkout_layout_hint_card_number">Kortnummer</string>
+    <string name="checkout_layout_hint_country_code">Landekode</string>
+    <string name="checkout_layout_hint_direct_debit_sepa_account_holder">Kontoindehaver</string>
+    <string name="checkout_layout_hint_direct_debit_sepa_iban">IBAN</string>
+    <string name="checkout_layout_hint_email">E-mail</string>
+    <string name="checkout_layout_hint_national_identifier">CPR-nummer</string>
+    <string name="checkout_layout_hint_phone_number">Mobilnummer</string>
+    <string name="checkout_layout_text_accept_mbway_pin">Venligst godkend din overførsel med ditt PIN MB WAY</string>
+    <string name="checkout_layout_text_cards_payment_methods">Kredit-/ Debitkort</string>
+    <string name="checkout_layout_text_finnish">Finsk</string>
+    <string formatted="false" name="checkout_layout_text_header_amount">%.2f %s</string>
+    <string name="checkout_layout_text_order_summary">Din ordre</string>
+    <string name="checkout_layout_text_order_total">Total</string>
+    <string name="checkout_layout_text_other_payment_methods">Andre betalingsmetoder</string>
+    <string name="checkout_layout_text_pay">Betal</string>
+    <string name="checkout_layout_text_pay_amount">Betal %s</string>
+    <string name="checkout_layout_text_pay_with">Betal med</string>
+    <string name="checkout_layout_text_payment_info">Betalingsinformation</string>
+    <string name="checkout_layout_text_push_notification_sent">Vi sender dig en push notifikation</string>
+    <string name="checkout_layout_text_qr_code">QR kode</string>
+    <string name="checkout_layout_text_register">Registrer</string>
+    <string name="checkout_layout_text_select_bank">Vælg bank</string>
+    <string name="checkout_layout_text_select_country">Vælg land</string>
+    <string name="checkout_layout_text_select_payment_method">Betalingsmetoder</string>
+    <string name="checkout_layout_text_ship_to">Send til</string>
+    <string name="checkout_layout_text_stcpay_method_select">Hvordan vil du gerne betale</string>
+    <string name="checkout_layout_text_stored_payment_methods">Gemte betalingsmetoder</string>
+    <string name="checkout_layout_text_swedish">Svensk</string>
+    <string name="checkout_layout_text_terms_and_conditions">Vilkår og betingelser</string>
+    <string name="checkout_layout_text_terms_and_conditions_agreement">Jeg har læst og forstået Vilkår og betingelser</string>
+    <string name="checkout_layout_text_total_amount">Total</string>
+    <string name="checkout_number_of_installments">Antal delbetalinger</string>
+    <string name="checkout_order_review">Gennemse din ordre</string>
+    <string name="checkout_payment_details">Betalingsoplysninger</string>
+    <string name="checkout_processing">Behandler/ Vi er i gang</string>
+    <string name="checkout_tokenization_checkbox">Gem dine betalingsoplysninger til fremtidige køb</string>
+    <string name="checkout_transaction_run">Vent venligst</string>
+    <string name="clear_text_end_icon_content_description">Ryd tekst</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Aktivér</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Du skal aktivere Google Play-tjenester, for at %1$s kan fungere.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Aktivér Google Play-tjenester</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Installer</string>
+    <string name="common_google_play_services_install_text">Du skal installere Google Play-tjenester, før %1$s kan køre på din enhed.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Hent Google Play-tjenester</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play-tjenesters tilgængelighed</string>
+    <string name="common_google_play_services_notification_ticker">Fejl i Google Play-tjenester</string>
+    <string name="common_google_play_services_unknown_issue">%1$s har problemer med Google Play-tjenester. Prøv igen.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s fungerer ikke uden Google Play-tjenester, som ikke understøttes på din enhed.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Opdater</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s kan ikke køre, medmindre du opdaterer Google Play-tjenester.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Opdater Google Play-tjenester</string>
+    <string name="common_google_play_services_updating_text">%1$s kan ikke køre uden Google Play-tjenester, som i øjeblikket opdateres.</string>
+    <string name="common_google_play_services_wear_update_text">Du skal bruge en ny version af Google Play-tjenester. Opdateringen gennemføres automatisk om et øjeblik.</string>
+    <string name="common_open_on_phone">Åbn på telefonen</string>
+    <string name="common_signin_button_text">Log ind</string>
+    <string name="common_signin_button_text_long">Log ind med Google</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Linket er kopieret til udklipsholderen"</string>
+    <string name="error_icon_content_description">Fejl</string>
+    <string name="exposed_dropdown_menu_content_description">Vis rullemenuen</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Kopiér link"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Åbn i browser"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Del link"</string>
+    <string name="icon_content_description">Ikon for dialogboks</string>
+    <string name="item_view_role_description">Fane</string>
+    <string name="klarna_payments_paylater">Køb nu. Betal senere.</string>
+    <string name="klarna_payments_sliceit">Del op.</string>
+    <string name="material_clock_toggle_content_description">Vælg AM eller PM</string>
+    <string name="material_hour_selection">Vælg time</string>
+    <string name="material_hour_suffix">klokken %1$s</string>
+    <string name="material_minute_selection">Vælg minutter</string>
+    <string name="material_minute_suffix">%1$s minutter</string>
+    <string name="material_timepicker_am">f.m.</string>
+    <string name="material_timepicker_clock_mode_description">Skift til urtilstand for at angive klokkeslæt.</string>
+    <string name="material_timepicker_hour">Time</string>
+    <string name="material_timepicker_minute">Minut</string>
+    <string name="material_timepicker_pm">e.m.</string>
+    <string name="material_timepicker_select_time">Vælg tidspunkt</string>
+    <string name="material_timepicker_text_input_mode_description">Skift til teksttilstand for at angive klokkeslæt.</string>
+    <string name="mtrl_badge_numberless_content_description">Ny notifikation</string>
+    <string name="mtrl_chip_close_icon_content_description">Fjern %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Flere end %1$d nye notifikationer</string>
+    <string name="mtrl_picker_a11y_next_month">Skift til næste måned</string>
+    <string name="mtrl_picker_a11y_prev_month">Skift til forrige måned</string>
+    <string name="mtrl_picker_announce_current_selection">Aktuelt valg: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Vælg dato</string>
+    <string name="mtrl_picker_date_header_unselected">Valgt dato</string>
+    <string name="mtrl_picker_day_of_week_column_header">Kolonne med dage: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Ugyldigt format.</string>
+    <string name="mtrl_picker_invalid_format_example">Eksempel: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Brug: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Ugyldigt interval.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Gå til år %1$s</string>
+    <string name="mtrl_picker_out_of_range">Uden for interval: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Startdato – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – slutdato</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Vælg interval</string>
+    <string name="mtrl_picker_range_header_unselected">Startdato – slutdato</string>
+    <string name="mtrl_picker_save">Gem</string>
+    <string name="mtrl_picker_text_input_date_hint">Dato</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Slutdato</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Startdato</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">å</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Skift til input-tilstand for kalender</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tryk for at gå til valg af dag</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Skift til input-tilstand for tekst</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tryk for at gå til valg af år</string>
+    <string name="password_toggle_content_description">Vis adgangskode</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Søg"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>
